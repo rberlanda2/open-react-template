@@ -12,8 +12,8 @@ export default function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Don't take our word for it</h2>
-            <p className="text-xl text-gray-400">Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.</p>
+            <h2 className="h2 mb-4">O Impacto Duradouro</h2>
+            <p className="text-xl text-gray-400">Histórias de sucesso e prendizado com Mestre Bolívar no Xadrez.</p>
           </div>
 
           {/* Testimonials */}
@@ -29,9 +29,9 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— "Nunca imaginei que o xadrez pudesse mudar minha vida dessa forma. Graças ao Mestre Bolívar, descobri meu potencial no jogo e conquistei títulos que nunca pensei serem possíveis. Sua dedicação e conhecimento são inspiradores, e sou grato por ter tido a oportunidade de aprender com ele." - João, aluno de Mestre Bolívar</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">João Augusto</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0"></a>
               </div>
             </div>
 
@@ -45,9 +45,9 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— "Mestre Bolívar não é apenas um treinador excepcional, mas também um mentor e um amigo. Seu apoio inabalável e sua abordagem personalizada me ajudaram a superar desafios, aprimorar minhas habilidades e me tornar um enxadrista mais confiante. Estou verdadeiramente honrado em ter sido orientado por ele." - Maria, aluna de Mestre Bolívar</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Maria Clara</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0"></a>
               </div>
             </div>
 
@@ -61,9 +61,9 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— "Ao longo dos anos, tive a sorte de ter Mestre Bolívar como meu guia no xadrez. Sua paixão e conhecimento profundo do jogo são contagiantes, e ele sabe como transmitir seu entusiasmo a seus alunos. Ele me ensinou muito mais do que apenas movimentos no tabuleiro; ele me ensinou a pensar estrategicamente e a ter uma mentalidade vencedora." - Pedro, aluno de Mestre Bolívar</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Maria Clara</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0"></a>
               </div>
             </div>
 

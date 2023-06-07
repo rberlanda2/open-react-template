@@ -1,16 +1,16 @@
 export default function Blocks() {
   return (
-    <section>
+    <section id="sobre">
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <div className="py-12 md:py-20 border-t border-gray-800">
 
           {/* Section header */}
-          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">The majority our customers do not understand their workflows.</h2>
-            <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <div className=" mx-auto text-center pb-12 md:pb-20">
+            <h2 className="h2 mb-4">Inspiração e maestria no mundo do Xadrez</h2>
+            <p className="text-xl text-gray-400">Conheça Mestre Bolívar Ribeiro Gonzalez, um renomado mestre de xadrez com mais de 28 anos de experiência. Como Mestre da Federação Internacional de Xadrez (FIDE) e Senior Mestre Internacional de Xadrez pela ICCF, suas conquistas são impressionantes. Ele já ensinou e treinou mais de 100 mil alunos, alcançando sucesso em competições nacionais e internacionais. Sua habilidade em formar e orientar talentos no xadrez é inigualável. Com conhecimentos avançados em softwares e hardwares especializados, Mestre Bolívar oferece uma abordagem completa para o ensino e treinamento do xadrez. Entre em contato e descubra o mundo do xadrez com um verdadeiro mestre que irá ajudá-lo a desbloquear seu potencial no jogo.</p>
           </div>
 
-          {/* Items */}
+          {/* Items */}l
           <div className="max-w-sm mx-auto grid gap-8 md:grid-cols-2 lg:grid-cols-3 lg:gap-16 items-start md:max-w-2xl lg:max-w-none" data-aos-id-blocks>
 
             {/* 1st item */}

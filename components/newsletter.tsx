@@ -23,8 +23,8 @@ export default function Newsletter() {
 
             {/* CTA content */}
             <div className="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-1/2">
-              <h3 className="h3 text-white mb-2">Stay in the loop</h3>
-              <p className="text-purple-200 text-lg">Join our newsletter to get top news before anyone else.</p>
+              <h3 className="h3 text-white mb-2">E-book Gratuito</h3>
+              <p className="text-purple-200 text-lg">Deixe seu e-mail para receber informações sobre o xadrez e baixe nosso E-book</p>
             </div>
 
             {/* CTA form */}

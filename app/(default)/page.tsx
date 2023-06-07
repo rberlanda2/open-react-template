@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Open PRO',
-  description: 'Page description',
+  title: 'Desvende o Xadrez com Mestre Bolívar',
+  description: 'Aprenda, Jogue e Domine o Tabuleiro',
 }
 
 import Hero from '@/components/hero'
